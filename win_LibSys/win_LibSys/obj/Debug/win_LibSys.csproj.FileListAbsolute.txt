@@ -1,0 +1,11 @@
+Z:\QQ111\win_LibSys\win_LibSys\bin\Debug\win_LibSys.exe.config
+Z:\QQ111\win_LibSys\win_LibSys\bin\Debug\win_LibSys.exe
+Z:\QQ111\win_LibSys\win_LibSys\bin\Debug\win_LibSys.pdb
+Z:\QQ111\win_LibSys\win_LibSys\obj\Debug\win_LibSys.csproj.AssemblyReference.cache
+Z:\QQ111\win_LibSys\win_LibSys\obj\Debug\win_LibSys.csproj.SuggestedBindingRedirects.cache
+Z:\QQ111\win_LibSys\win_LibSys\obj\Debug\win_LibSys.Form1.resources
+Z:\QQ111\win_LibSys\win_LibSys\obj\Debug\win_LibSys.Properties.Resources.resources
+Z:\QQ111\win_LibSys\win_LibSys\obj\Debug\win_LibSys.csproj.GenerateResource.cache
+Z:\QQ111\win_LibSys\win_LibSys\obj\Debug\win_LibSys.csproj.CoreCompileInputs.cache
+Z:\QQ111\win_LibSys\win_LibSys\obj\Debug\win_LibSys.exe
+Z:\QQ111\win_LibSys\win_LibSys\obj\Debug\win_LibSys.pdb
